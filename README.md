@@ -1,5 +1,5 @@
 ## Deep Learning kisházik
-[A tárgy](http://smartlab.tmit.bme.hu/oktatas-deep-learning)
+[A tárgy](http://smartlab.tmit.bme.hu/oktatas-deep-learning)  
 [**NAGYHÁZI**](https://github.com/zsoca000/Duckie-Town-DL-Homework.git)
 1. prepocessing feladatok
 2. mini-batch learning (nem lett túl jó)
